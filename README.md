@@ -14,16 +14,14 @@ I am a passionate Full-Stack Software Developer with expertise in building dynam
 
 - 💬 Ask me about anything [here](https://github.com/joysendeveloper/joysendeveloper/issues)
 
-<code><img height="20" alt="javascript" src=""></code>
-<code><img height="20" alt="typescript" src=""></code>
-<code><img height="20" alt="react" src=""></code>
-<code><img height="20" alt="graphql" src=""></code>
-<code><img height="20" alt="nodejs" src=""></code>    
+<code><img height="20" alt="" src=""></code>
+<code><img height="20" alt="" src=""></code>
+<code><img height="20" alt="" src=""></code>
+<code><img height="20" alt="" src=""></code>
+<code><img height="20" alt="" src=""></code>    
 
 
 
-
-#### Top Repositories
 
 #### Top Repositories
 
