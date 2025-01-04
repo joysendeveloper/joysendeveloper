@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Joy, I do open source!" src="" /></a></p>
+<p align="center"><a href=""><img width="80%" alt="Hello, I'm Joy, I do open source!" src="./assets/Intro BG.gif" /></a></p>
 
 <br />
 
@@ -14,11 +14,10 @@ I am a passionate Full-Stack Software Developer with expertise in building dynam
 
 - 💬 Ask me about anything [here](https://github.com/joysendeveloper/joysendeveloper/issues)
 
-<code><img height="20" alt="" src=""></code>
-<code><img height="20" alt="" src=""></code>
-<code><img height="20" alt="" src=""></code>
-<code><img height="20" alt="" src=""></code>
-<code><img height="20" alt="" src=""></code>    
+<code><img height="20" alt="Salesforce" src="./assets/skills/salesforce.png"></code>
+<code><img height="20" alt="Laravel" src="./assets/skills/Laravel.png"></code>
+<code><img height="20" alt="React" src="./assets/skills/react.png"></code>
+<code><img height="20" alt="My SQL" src="./assets/skills/mysql.png"></code>
 
 
 
