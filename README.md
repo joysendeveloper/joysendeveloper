@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Joy, I do open source!" src="./assets/Intro BG.gif" /></a></p>
+<p align="center"><a href=""><img width="100%" alt="Hello, I'm Joy, I do open source!" src="./assets/Intro BG.gif" /></a></p>
 
 <br />
 
