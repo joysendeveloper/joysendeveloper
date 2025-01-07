@@ -17,7 +17,7 @@ I am a passionate Full-Stack Software Developer with expertise in building dynam
 <code><img height="20" alt="Salesforce" src="./assets/skills/salesforce.png"></code>
 <code><img height="20" alt="Laravel" src="./assets/skills/Laravel.png"></code>
 <code><img height="20" alt="React" src="./assets/skills/react.png"></code>
-<code><img height="20" alt="My SQL" src="./assets/skills/mysql.png"></code>
+<code><img height="20" alt="SQL" src="./assets/skills/mysql.png"></code>
 
 
 
